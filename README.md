@@ -8,6 +8,6 @@ Claflin University Summer Seed Research Grant (2023): Utilization of Machine Lea
 
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 https://link.springer.com/chapter/10.1007/978-981-99-8031-4_3
-![Stroke-Neural-Nets](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/9a7074ca-b34f-43f9-8664-b8ac01c36a06)
+![Stroke-Neural-Nets](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/9a7074ca-b34f-43f9-8664-b8ac01c36a06) https://campuspress.yale.edu/shrikantpawar/files/2024/04/Springer-92ddf1be965c764d.pdf
 
 
