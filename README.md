@@ -3,7 +3,7 @@
 <img width="158" alt="Stroke" src="https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/3c111b32-4812-427a-966d-eb07dc26bf46">
 
 [7th World Conference on Smart Trends in Systems, Security, and Sustainability (WorldS4 2023), Stroke risk stratification using neural networks.](https://worlds4.co.uk/agenda.html)
-
+Springer Intelligent Sustainable Systems.
 1.	(Claflin University Summer Seed Research Grant Funded)![image](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/40e803e5-4adc-4648-a4f8-98519fba15fb)
 
 Claflin University Summer Seed Research Grant (2023): Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusions: $10,000 (direct, 100%, Pilot funding). Poster Link [*2024:9][**2024:36] Github Paper 
