@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/WorldS4-2023.pptx
 https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, USA. 
-https://www.claflin.edu/
+https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
