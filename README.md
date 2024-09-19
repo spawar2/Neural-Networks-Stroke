@@ -19,3 +19,5 @@ https://campuspress.yale.edu/shrikantpawar/files/2024/05/WorldS4-2023.pptx
 https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
+
+Neural-Networks-Stroke.R: Stroke variables data read, Transform the data using a max-min normalization technique, Data split, neuralnet training, Evaluation Metrics: accuracy, precision, sensitivity, specificity, fscore for Hemorrhagic, Ischemic, One sided face, One sided arm, One sided leg, Asymmetry, Not ambulatory, Not able to speak, Visual disturbances, Abnormal sensation, Mental change, and Not able to grasp outcome, Visualization.
