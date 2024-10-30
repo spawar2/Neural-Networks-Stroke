@@ -2,7 +2,7 @@
 ![Claflin](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/f6d2aff8-a896-4f69-b035-bf8265ee4a6e).
 <img width="158" alt="Stroke" src="https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/3c111b32-4812-427a-966d-eb07dc26bf46">
 
-[7th World Conference on Smart Trends in Systems, Security, and Sustainability (WorldS4 2023), Stroke risk stratification using neural networks.](https://worlds4.co.uk/agenda.html)
+[7th World Conference on Smart Trends in Systems, Security, and Sustainability (WorldS4 2 February, 2023), Stroke risk stratification using neural networks.](https://worlds4.co.uk/agenda.html)
 Springer Intelligent Sustainable Systems.
 1.	(Claflin University,  Orangeburg, South Carolina, USA. Summer Seed Research Grant Funded.)![image](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/40e803e5-4adc-4648-a4f8-98519fba15fb).
 
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
 
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/WorldS4-2023.pptx
 https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
-Claflin University, Orangeburg, South Carolina, USA. 
+Claflin University, Orangeburg, South Carolina, United States of America (USA). 
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 
 Neural-Networks-Stroke.R: Stroke variables data read, Transform the data using a max-min normalization technique, Data Test-Train Split, Neural, neuralnet training, Evaluation Metrics: accuracy, precision, sensitivity, specificity, fscore for Hemorrhagic, Ischemic, One sided face, One sided arm, One sided leg, Asymmetry, Not ambulatory, Not able to speak, Visual disturbances, Abnormal sensation, Mental change, and Not able to grasp outcome, Visualization.
