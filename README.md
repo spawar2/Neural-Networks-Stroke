@@ -23,6 +23,7 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 Neural-Networks-Stroke.R: Stroke variables data read, Transform the data using a max-min normalization technique, Data Test-Train Split, Neural, neuralnet training, Evaluation Metrics: accuracy, precision, sensitivity, specificity, fscore for Hemorrhagic, Ischemic, One sided face, One sided arm, One sided leg, Asymmetry, Not ambulatory, Not able to speak, Visual disturbances, Abnormal sensation, Mental change, and Not able to grasp outcome, Visualization.
 selected function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum, maxmindf).
 
+Testing: 
 Sensitivity = 0.946564885496183
 Specificity = 0.745901639344262
 fscore = 0.934673366834171
