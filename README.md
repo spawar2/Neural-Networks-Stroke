@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
 [R: neuralnet].
 https://campuspress.yale.edu/shrikantpawar/files/2024/11/WorldS4-2023.pdf
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/WorldS4-2023.pptx
-https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
+Video presentation: https://www.youtube.com/watch?v=PtjHqf4xlbI&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 
