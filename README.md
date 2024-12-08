@@ -5,7 +5,7 @@
 [7th World Conference on Smart Trends in Systems, Security, and Sustainability (WorldS4 2 February, 2023), Stroke risk stratification using neural networks.](https://worlds4.co.uk/agenda.html)
 Springer Intelligent Sustainable Systems.
 1.	(Claflin University,  Orangeburg, South Carolina, USA. Summer Seed Research Grant Funded.)![image](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/40e803e5-4adc-4648-a4f8-98519fba15fb).
-
+A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.
 Claflin University, Orangeburg, South Carolina, USA  Summer Seed Research Grant (2023): Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusions: $10,000 (Direct costs, Effort=100%, Pilot funding). Poster Link, [*2024:9],[**2024:36] Github, Paper. 
 https://www.claflin.edu/
 https://campuspress.yale.edu/shrikantpawar/files/2024/04/Seed-Report-2023-d26fc72513e269e3.docx
