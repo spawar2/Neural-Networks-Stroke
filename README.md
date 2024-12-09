@@ -1,4 +1,4 @@
-[# Neural-Networks-Stroke](https://campuspress.yale.edu/shrikantpawar/files/2023/08/Smart-trends-in-systems-certificate.pdf).
+[# Neural-Networks-Stroke](https://campuspress.yale.edu/shrikantpawar/files/2023/08/Smart-trends-in-systems-certificate.pdf). December, 9, 2024.
 ![Claflin](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/f6d2aff8-a896-4f69-b035-bf8265ee4a6e).
 <img width="158" alt="Stroke" src="https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/3c111b32-4812-427a-966d-eb07dc26bf46">
 Artificial intelligence (AI).
