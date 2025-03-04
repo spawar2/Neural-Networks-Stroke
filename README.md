@@ -7,7 +7,7 @@ Springer Intelligent Sustainable Systems. (May 1, 2023- August 31, 2023). Award 
 1.	(Claflin University,  Orangeburg, South Carolina, USA. Summer Seed Research Grant Funded.)![image](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/40e803e5-4adc-4648-a4f8-98519fba15fb).
 A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.
 Claflin University, Orangeburg, South Carolina, USA  Summer Seed Research Grant (2023): Utilization of Machine Learning Techniques for Aiding Detection of Ischemic Stroke Lesion, Infarct Volumes, and Small-artery Occlusions: $10,000 (Direct costs, Effort=100%, Pilot funding). Poster Link, [*2024:9],[**2024:36] Github, Paper. 
-https://www.claflin.edu/
+https://www.claflin.edu/ Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
 https://campuspress.yale.edu/shrikantpawar/files/2024/04/Seed-Report-2023-d26fc72513e269e3.docx
 https://www.claflin-computation.com/_files/ugd/81dd80_e12daf8e87c348c5a9347af693993739.pdf
 https://link.springer.com/chapter/10.1007/978-981-99-8031-4_3
