@@ -22,7 +22,32 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 Stroke Risk Stratification Using Neural Networks, Publication Springer Lecture Notes in Networks and Systems ,Publication date March 27, 2024, (Claflin University, Orangeburg, South Carolina, USA Summer Seed Research Grant Funded) .     Report, 1, 2, 3, 4, 5, 6, Paper^^[**2023:36], DOI: https://doi.org/10.1007/978-981-99-8031-4_3, Presentation video, Volume: 812, Issue, Pages: pp 21–31.† 
 Neural-Networks-Stroke.R: Stroke variables data read, Transform the data using a max-min normalization technique, Data Test-Train Split, Neural, neuralnet training, Evaluation Metrics: accuracy, precision, sensitivity, specificity, fscore for Hemorrhagic, Ischemic, One sided face, One sided arm, One sided leg, Asymmetry, Not ambulatory, Not able to speak, Visual disturbances, Abnormal sensation, Mental change, and Not able to grasp outcome, Visualization.
 selected function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum, maxmindf).
-Accuracy (3, 5, 10 Fold similar values).
+	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
+	•	recall0.73325
+	•	f1-score0.7567079463364293
+	•	Support4000  
+	•	Accuracy, precision0.7488820899035067
+	•	recall0.7953011747063234
+	•	f1-score0.7713939393939394
+	•	Support4001 
+	•	Accuracy, precision0.7652992539069772
+	•	recall0.7642755873531617
+	•	f1-score0.7640509428651844
+	•	Support8001  
+	•	Accuracy, precision0.7652972020179628
+	•	recall0.7642794650668666
+	•	f1-score0.7640518606250305
+	•	support8001
+
+              Kappa : 1   
+        Sensitivity : 1.0000     
+        Specificity : 1.0000     
+     Pos Pred Value : 1.0000     
+     Neg Pred Value : 1.0000     
+         Prevalence : 0.3333     
+     Detection Rate : 0.3333     
+
+Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 Testing: 
 Sensitivity = 0.946564885496183
 Specificity = 0.745901639344262
