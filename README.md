@@ -22,7 +22,7 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 Stroke Risk Stratification Using Neural Networks, Publication Springer Lecture Notes in Networks and Systems ,Publication date March 27, 2024, (Claflin University, Orangeburg, South Carolina, USA Summer Seed Research Grant Funded) .     Report, 1, 2, 3, 4, 5, 6, Paper^^[**2023:36], DOI: https://doi.org/10.1007/978-981-99-8031-4_3, Presentation video, Volume: 812, Issue, Pages: pp 21–31.† 
 Neural-Networks-Stroke.R: Stroke variables data read, Transform the data using a max-min normalization technique, Data Test-Train Split, Neural, neuralnet training, Evaluation Metrics: accuracy, precision, sensitivity, specificity, fscore for Hemorrhagic, Ischemic, One sided face, One sided arm, One sided leg, Asymmetry, Not ambulatory, Not able to speak, Visual disturbances, Abnormal sensation, Mental change, and Not able to grasp outcome, Visualization.
 selected function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum, maxmindf).
-
+Accuracy (3, 5, 10 Fold similar values).
 Testing: 
 Sensitivity = 0.946564885496183
 Specificity = 0.745901639344262
