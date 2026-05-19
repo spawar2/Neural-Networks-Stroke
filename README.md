@@ -1,7 +1,8 @@
 [# Neural-Networks-Stroke](https://campuspress.yale.edu/shrikantpawar/files/2023/08/Smart-trends-in-systems-certificate.pdf). Date created/updated: December, 9, 2024.
 ![Claflin](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/f6d2aff8-a896-4f69-b035-bf8265ee4a6e).
 <img width="158" alt="Stroke" src="https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/3c111b32-4812-427a-966d-eb07dc26bf46">
-Artificial intelligence (AI).
+Artificial intelligence (AI). <img width="1451" height="799" alt="Screenshot 2026-05-20 at 1 44 50 AM" src="https://github.com/user-attachments/assets/4f4b9481-e030-4302-8fd8-9c89383ebf9d" />
+
 [7th World Conference on Smart Trends in Systems, Security, and Sustainability (WorldS4 2 February, 2023), Stroke risk stratification using neural networks.](https://worlds4.co.uk/agenda.html)
 Springer (Springer Nature) Intelligent Sustainable Systems. (May 1, 2023- August 31, 2023). Award (Start date- End date).
 1.	(Claflin University,  Orangeburg, South Carolina, USA. Summer Seed Research Grant Funded.)![image](https://github.com/spawar2/Neural-Networks-Stroke/assets/25118302/40e803e5-4adc-4648-a4f8-98519fba15fb).
